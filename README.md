@@ -1,121 +1,104 @@
-Hi, I’m Monirul Islam Mahbub
+# Profile
+# 👋 Hi, I'm Monirul Islam Mahbub  
+### Managing Director • Operations Executive • Engineering & MEP Specialist • Data Science Graduate Student
 
-Full-Stack Web Developer | Python & Django | Data Analytics | Business Applications
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/m-i-mahbub-7911a663)
 
-I build modern web applications, business management systems, data-driven dashboards, and digital solutions designed to solve real-world operational problems.
+I am a vision-driven Operations Executive and former Managing Director with 11+ years of experience leading multimillion‑dollar industrial and commercial projects across engineering, construction, and technical services. My background spans steel structure erection, HVAC, MEP systems, pipeline installation, and fire safety infrastructure—combined with strong leadership in strategy, budgeting, safety compliance, and cross‑functional team management.
 
-My background combines software development, data analytics, engineering, and business operations, enabling me to understand both the technical requirements and business objectives behind a project.
+I specialize in transforming complex engineering operations into efficient, scalable, and data‑driven systems. Over the past decade, I have built high‑performance teams, implemented automation‑led quality assurance processes, and maintained a flawless safety record with **zero lost‑time injuries for five consecutive years**. My work includes managing large project budgets, optimizing cost structures, improving operational workflows, and ensuring regulatory compliance across mechanical, electrical, and civil engineering domains.
 
-⸻
+Currently pursuing a **Master of Science in Data Science** in the United States, I am expanding my expertise into database systems, analytics, and IT‑enabled process improvement. I bring a unique blend of engineering depth, operational leadership, and data‑driven decision‑making—making me well‑suited for roles in engineering management, operations, IT consulting, and technical project leadership.
 
-Tech Stack
+---
 
-Web Development
+## 📊 Data Science & Analytics
 
-* Python & Django
-* HTML5, CSS3 & JavaScript
-* Bootstrap
-* RESTful APIs
-* Responsive Web Design
+### Areas of Expertise
+- Data Cleaning, Wrangling & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Statistical Modeling & Hypothesis Testing  
+- Machine Learning (Supervised & Unsupervised)  
+- Predictive Analytics & Forecasting  
+- Data Visualization & Storytelling  
+- Database Design, SQL Querying & Optimization  
 
-Database & Business Applications
+### Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit‑Learn)  
+- Jupyter Notebook  
+- SQL (MySQL, PostgreSQL, SQLite)  
+- Excel for Data Analysis  
+- Git & GitHub  
 
-* PostgreSQL, MySQL & SQLite
-* Oracle Database
-* Oracle APEX
-* PL/SQL
-* Database Design
-* ERP Systems
-* Business Process Automation
+### Applied Interests
+- Engineering Data Analytics (HVAC, MEP, Energy Efficiency)  
+- Predictive Maintenance for Industrial Systems  
+- Cost Forecasting & Resource Optimization  
+- Operational Optimization using ML  
+- Automation‑Driven Quality Assurance  
+- Business Intelligence Dashboards  
 
-Data Analytics & Business Intelligence
+---
 
-* Python
-* Pandas & NumPy
-* Matplotlib
-* Scikit-learn
-* SQL
-* Microsoft Excel
-* Data Analysis & Visualization
-* Business Intelligence
+## 🛠 Technical Skills
 
-Development Tools
+### Engineering & Design
+- HVAC, MEP, Steel Structure, Fire Safety Systems  
+- AutoCAD (2D/3D), MEP Layouts, Schematics  
+- Industrial Machinery Installation & Maintenance  
 
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
+### IT & Productivity
+- Microsoft Excel, Word, PowerPoint, Visio  
+- WordPress, HTML, Photoshop  
+- System Troubleshooting & Technical Support  
 
-⸻
+---
 
-Featured Projects
+## 📂 Featured Projects
 
-MAA Pharmacy — Pharmacy Web Platform
+### 🔹 MEP Engineering Database System
+A complete database system for managing clients, projects, engineers, materials, and invoices for a small MEP company.  
+**Skills:** ERD, SQL, Requirements Analysis, System Design  
 
-A modern pharmacy web platform designed to simplify access to pharmacy services and improve the overall patient experience.
+### 🔹 Predictive Maintenance Model (Data Science)
+Machine learning model to predict equipment failure using historical sensor data.  
+**Skills:** Python, ML, EDA, Feature Engineering  
 
-Key capabilities include prescription refill and transfer workflows, prescription status requests, delivery services, pharmacy information, and responsive patient-focused navigation.
+### 🔹 HVAC Energy Optimization Analysis
+Data-driven analysis of HVAC energy consumption to identify efficiency improvements.  
+**Skills:** Python, Visualization, Statistical Modeling  
 
-Tech: Python • Django • PostgreSQL • HTML5 • CSS3 • JavaScript
+### 🔹 Networking Lab (Packet Tracer)
+Configured LAN/WLAN, DHCP, email server, and routing for a small office network.  
+**Skills:** Networking, Troubleshooting, Simulation  
 
-⸻
+---
 
-INAZUBI — Multi-Tenant Business Management ERP
+## 🎓 Education
+- **M.S. in Data Science (USA)** — Monroe University (Ongoing)  
+- **B.Sc. in Computer Science Engineering** — Rajshshi Science & Technology University 
+- **Diploma in Mechanical Engineering** — Rajshahi Polytechnic Institute  
+- **Vocational Diploma in Civil Construction Technology** — TTC Rajshahi  
 
-Currently developing a scalable multi-tenant ERP platform designed to support businesses across multiple industries, including travel, education, restaurants, retail, and general business operations.
+---
 
-Core modules include CRM, sales, operations, finance, accounting, inventory, reporting, workflow automation, role-based access, configurable business rules, and centralized audit logging.
+## 📜 Certifications
+- Business Consulting — US Institute of Diplomacy & Human Rights  
+- Mechanical Machine & Hand Tools — BITAC  
+- Industrial Machine Operation & Maintenance — BITAC  
 
-Tech: Oracle APEX • Oracle Database • PL/SQL • RESTful APIs
+---
 
-⸻
+## 🌍 Languages
+- Bengali — Native  
+- English — Professional Working Proficiency  
 
-Business Intelligence & Data Analytics Dashboard
+---
 
-Data analytics and dashboard solutions designed to transform complex datasets into meaningful business insights.
-
-Projects focus on KPI monitoring, interactive visualization, trend analysis, performance tracking, reporting, and data-driven decision-making.
-
-Tech: Python • SQL • Pandas • Data Visualization • Business Intelligence
-
-⸻
-
-MEP Engineering Database System
-
-A structured database solution designed to manage operational information for an engineering business, including clients, projects, engineers, materials, invoices, and related records.
-
-Tech: SQL • Database Design • ERD • Requirements Analysis
-
-⸻
-
-Current Focus
-
-* Full-Stack Web Development
-* Python & Django
-* Business Web Applications
-* ERP & Management Systems
-* REST API Development & Integration
-* Database Design & Development
-* Data Analytics
-* Business Intelligence
-* Workflow Automation
-* Business Process Digitalization
-
-⸻
-
-Professional Background
-
-In addition to software and data development, I bring extensive professional experience in engineering, technical operations, project management, and business operations.
-
-This combination helps me design software solutions with a strong understanding of real business workflows, operational requirements, users, and process improvement.
-
-⸻
-
-Let’s Connect
-
-Portfolio: https://www.mimahbub.com
-GitHub: https://github.com/mimahbub
-LinkedIn: https://www.linkedin.com/in/m-i-mahbub-7911a663
-
-Based in: New Jersey, USA
-
-Open to freelance projects, remote collaboration, and software development opportunities.
+## 📫 Contact
+📧 Email: engrmahbub@live.co.uk  
+🔗 LinkedIn: https://www.linkedin.com/in/m-i-mahbub-7911a663  
+🌐 Website: www.mimahbub.com
+🌐 GitHub: mimahbub  
+📍 Paterson, New Jersey, USA  
+🧭 Open to relocation & remote opportunities  
