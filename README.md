@@ -76,7 +76,7 @@ Configured LAN/WLAN, DHCP, email server, and routing for a small office network.
 
 ## 🎓 Education
 - **M.S. in Data Science (USA)** — Monroe University (Ongoing)  
-- **B.Sc. in Electrical & Electronic Engineering** — AUST  
+- **B.Sc. in Computer Science Engineering** — Rajshshi Science & Technology University 
 - **Diploma in Mechanical Engineering** — Rajshahi Polytechnic Institute  
 - **Vocational Diploma in Civil Construction Technology** — TTC Rajshahi  
 
@@ -98,6 +98,7 @@ Configured LAN/WLAN, DHCP, email server, and routing for a small office network.
 ## 📫 Contact
 📧 Email: engrmahbub@live.co.uk  
 🔗 LinkedIn: https://www.linkedin.com/in/m-i-mahbub-7911a663  
+🌐 Website: www.mimahbub.com
 🌐 GitHub: mimahbub  
 📍 Paterson, New Jersey, USA  
 🧭 Open to relocation & remote opportunities  
